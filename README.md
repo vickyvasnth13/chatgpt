@@ -1,3 +1,10 @@
+<p align="center">
+<a href="https://t.me/TeamTrickyAbhi"><img title="Telegram" src="https://img.shields.io/badge/Telegram-Group-blue?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/Techno_Trickop"><img title="Telegram" src="https://img.shields.io/badge/Telegram-Channel-yellow?style=for-the-badge&logo=Telegram"></a>
+<a href="https://youtube.com/@TrickyAbhi"><img title="YouTube" src="https://img.shields.io/badge/YouTube-TrickyAbhi-red?style=for-the-badge&logo=Youtube"></a>
+<a href="https://github.com/TrickyAbhii/chatgpt-bot"><img title="Github" src="https://img.shields.io/badge/TrickyAbhi-Abhishek-brightgreen?style=for-the-badge&logo=github"></a>
+</p>
+
 ### chatgpt-bot
 
 ![Python Version](https://img.shields.io/badge/python-3.9-green?style=for-the-badge&logo=appveyor)
